@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
+- 👨‍💻 All of my projects are available at [https://pretisha-sahoo.vercel.app/](https://pretisha-sahoo.vercel.app/)
 
 - 📫 How to reach me **pretishasahoo@gmail.com**
 
